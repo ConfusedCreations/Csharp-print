@@ -1,0 +1,6 @@
+PrintDocument output = new PrintDocument(Hello world);
+output.DocumentName = "Test Results";
+
+//To change the name of the document, edit the part where it says "Test Results"
+
+//To change the text in the document, edit the part where it says "Hello World"
